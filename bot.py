@@ -17,6 +17,4 @@ client.chat_postMessage(channel='#testbot',text='hello world!')
 
 if __name__=="__main__":
     app.run(debug=True)
-#continue from 9:17git filter-branch --force --index-filter \
-  'git rm --cached --ignore-unmatch .env' \
-  --prune-empty --tag-name-filter cat -- --all
+#continue from 9:17
